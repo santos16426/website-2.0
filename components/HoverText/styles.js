@@ -14,7 +14,7 @@ export const HoverTextWrapper = styled.div`
       }
     }
     &.h2 {
-      font-size: 4em;
+      font-size: 3em;
     }
   }
   .letter {

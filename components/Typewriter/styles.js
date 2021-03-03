@@ -13,5 +13,5 @@ export const TypeWriterWrapper = styled.div`
   text-align: left;
   color: #fff;
   font-family: "Courier New", Courier, monospace;
-  font-size: 3em;
+  font-size: 2.5em;
 `;
