@@ -4,9 +4,9 @@
   "private": true,
   "main": "server.js",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "nodemon --exec \"npm run build && node ./server.js\" ",
     "build": "next build",
-    "start": "next start",
+    "start": "next dev",
     "static": "next export",
     "prod_start": "NODE_ENV=production node server.js"
   },
@@ -16,6 +16,7 @@
     "emailjs-com": "^2.6.4",
     "express": "^4.17.1",
     "next": "10.0.6",
+    "nodemon": "^2.0.7",
     "nprogress": "^0.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",

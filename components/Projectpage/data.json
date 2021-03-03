@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Get All",
+    "tags": [],
+    "role": "Mobile Developer",
+    "company": "White Cloak Technologies Inc.",
+    "description": "The Get All app offers a real-time tracking feature, where you can get updates on the status of your delivery. With Get All’s transparent pricing system, Get All shows your delivery cost before you place your booking. The Cash On Delivery and E-wallet provides flexible payment options depending on your needs.",
+    "startDate": "May 2020",
+    "endDate": "Present",
+    "involvement": "From the start to production",
+    "stackUsed": ["React Native", "Firebase", "React"],
+    "icon": ""
+  },
+  {
+    "title": "Groover Delivery",
+    "tags": [],
+    "role": "Mobile Developer, Backend Developer",
+    "company": "White Cloak Technologies Inc.",
+    "description": "Groover Delivery Services is a third-party delivery service provider which started serving the people of Olongapo City and Subic Bay Freeport Zone Area extending up to Subic Town, Tipo, and Castillejos areas",
+    "startDate": "October 2019",
+    "endDate": "Present",
+    "involvement": "From the start to maintenance",
+    "stackUsed": [
+      "React Native",
+      "React",
+      "Firebase",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB"
+    ],
+    "icon": ""
+  },
+  {
+    "title": "Petpal PH",
+    "tags": [],
+    "role": "Web Developer",
+    "company": "White Cloak Technologies Inc.",
+    "description": "In Petpal, our community members help one another raise amazing fur loves through asking important, useful questions and getting answers that are reliable",
+    "startDate": "November 2018",
+    "endDate": "April 2019",
+    "involvement": "From the start to production",
+    "stackUsed": ["React"],
+    "icon": ""
+  },
+  {
+    "title": "Alveo Land Website",
+    "tags": [],
+    "role": "Web Developer",
+    "company": "White Cloak Technologies Inc.",
+    "description": "Real-Estate marketing website that gives modern user experience to its customers. It has its own content management system.",
+    "startDate": "May 2019",
+    "endDate": "Present",
+    "involvement": "From the start to production",
+    "stackUsed": ["React", "NextJS", "TypeScript"],
+    "icon": ""
+  },
+  {
+    "title": "Generic E-Commerce Website",
+    "tags": [],
+    "role": "Web Developer",
+    "company": "Freelance",
+    "description": "An e-commerce website that uses Shopify framework.",
+    "startDate": "January 2021",
+    "endDate": "February 2021",
+    "involvement": "Customizing features",
+    "stackUsed": ["Liquid", "Javascript"],
+    "icon": ""
+  },
+  {
+    "title": "P6 System App",
+    "tags": [],
+    "role": "Web Developer",
+    "company": "Freelance",
+    "description": "With the P6 System Application, you can easily share and effectively duplicate your business using your smartphone or tablet. An application that helps users build their own lifestyle for business conveniently.",
+    "startDate": "April 2020",
+    "endDate": "June 2020",
+    "involvement": "From start to production",
+    "stackUsed": ["React", "Firebase"],
+    "icon": ""
+  },
+  {
+    "title": "Keylargo Car Accessories",
+    "tags": [],
+    "role": "Netsuite Developer",
+    "company": "IT Group Inc.",
+    "description": "CRM for car parts and accessories, includes inventory, billing upto reports by the use of Oracle NetSuite.",
+    "startDate": "January 2018",
+    "endDate": "September 2018",
+    "involvement": "Customizing features",
+    "stackUsed": ["Netsuite"],
+    "icon": ""
+  },
+  {
+    "title": "Autokid Truck Solutions",
+    "tags": [],
+    "role": "Netsuite Developer",
+    "company": "IT Group Inc.",
+    "description": "CRM for car parts and accessories, includes inventory, billing upto reports by the use of Oracle NetSuite.",
+    "startDate": "January 2018",
+    "endDate": "September 2018",
+    "involvement": "Customizing features",
+    "stackUsed": ["Netsuite"],
+    "icon": ""
+  }
+]

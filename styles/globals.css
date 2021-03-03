@@ -33,6 +33,12 @@ h3 {
 .fp-section {
   text-align: center;
 }
+.fp-prev {
+  border-color: transparent rgb(167, 173, 177) transparent transparent !important;
+}
+.fp-next {
+  border-color: transparent transparent transparent rgb(167, 173, 177) !important;
+}
 button {
   position: fixed;
   top: 20px;
